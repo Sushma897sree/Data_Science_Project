@@ -80,7 +80,7 @@ Example structure:
 ---
 
 ## Files in This Repository
-- **todaycode_09_04.ipynb**: Main notebook containing EDA, model building, and evaluation.
+- **Final_code.ipynb**: Main notebook containing EDA, model building, and evaluation.
 - **models/**:
   - **CNN_Model_Training.ipynb**
   - **VGG16_Model_Training.ipynb**
